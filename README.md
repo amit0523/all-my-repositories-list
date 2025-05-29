@@ -1,13 +1,11 @@
+This repository contains a list of all other repositories that I have on Github.
 
-Since Github shows only 6 repositories on my profile page/dashboard, I have
-created this repository that contains all the other repositories that I have
-on Github.
-
-Currently, I have 7 repositories on Github excluding this repository.
+Currently, I have 8 repositories on Github excluding this repository.
 
 The list is below:
 
 * https://github.com/amit0523/generic-doubly-linked-list-library
+* https://github.com/amit0523/simple-tcp-client-server
 * https://github.com/amit0523/get-line-from-file
 * https://github.com/amit0523/check-line-length-80-characters
 * https://github.com/amit0523/text-menu-for-user
