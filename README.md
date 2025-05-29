@@ -8,7 +8,7 @@ The list is below:
 * https://github.com/amit0523/simple-tcp-client-server
 * https://github.com/amit0523/get-line-from-file
 * https://github.com/amit0523/check-line-length-80-characters
-* https://github.com/amit0523/text-menu-for-user
 * https://github.com/amit0523/str-split
 * https://github.com/amit0523/substr
 * https://github.com/amit0523/str-join
+* https://github.com/amit0523/text-menu-for-user
