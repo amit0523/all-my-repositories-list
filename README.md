@@ -6,6 +6,7 @@ The list is below:
 
 * https://github.com/amit0523/generic-doubly-linked-list-library
 * https://github.com/amit0523/simple-tcp-client-and-server
+* https://github.com/amit0523/pthread-producer-consumer-program
 * https://github.com/amit0523/get-line-from-file
 * https://github.com/amit0523/check-line-length-80-characters
 * https://github.com/amit0523/str-split
