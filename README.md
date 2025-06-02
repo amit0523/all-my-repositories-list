@@ -1,6 +1,6 @@
 This repository contains a list of all other repositories that I have on Github.
 
-Currently, I have 8 repositories on Github excluding this repository.
+Currently, I have 9 repositories on Github excluding this repository.
 
 The list is below:
 
